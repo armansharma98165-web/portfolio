@@ -25,7 +25,7 @@ Electronics and Communication Engineering (ECE) student passionate about embedde
 - Learned microcontroller interfacing and embedded programming concepts.
 
 ## Resume
-[Download Resume](arman_sharma_cv.pdf)
+[Download Resume](arman_sharma_cv(1).pdf)
 
 ## Contact
 - Email: armansharma98165@gmail.com
